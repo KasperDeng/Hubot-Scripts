@@ -1,0 +1,17 @@
+{
+  "name": "milo",
+  "version": "0.0.0",
+  "private": true,
+  "author": "kasperdeng <kasper.deng@gmail.com>",
+  "description": "hubot-wechat adapter",
+  "dependencies": {
+    "hubot": "^2.16.0",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-help": "^0.1.1",
+    "hubot-standup-alarm": "0.0.6"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
